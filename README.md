@@ -21,5 +21,5 @@
   [postman_collection.json](/docs/json/System.postman_collection.json)
 
   [Eureka Dashboard](docs/screenshot/Screenshot%202025-06-25%20100111.png)
-  
+  ![Screenshot 2025-06-25 100111.png](docs/screenshot/Screenshot%202025-06-25%20100111.png)
   
