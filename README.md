@@ -16,3 +16,10 @@
     Vehicle Service - Manages vehicle information
 
     Payment Service - Handles payment processing
+
+  Resources!
+  [postman_collection.json](/docs/json/System.postman_collection.json)
+
+  [Eureka Dashboard](docs/screenshot/Screenshot%202025-06-25%20100111.png)
+  
+  
