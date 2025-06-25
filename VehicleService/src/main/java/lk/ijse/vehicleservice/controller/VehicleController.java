@@ -79,3 +79,4 @@ public class VehicleController {
         }
     }
 }
+#vehicle save ,get,delete,update url maping
